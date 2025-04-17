@@ -32,7 +32,7 @@ Uma aplicação em Python que transforma vídeos do YouTube em **texto transcrit
 ## ▶️ Demonstração
 
 > 🎥 Vídeo demonstrando o app funcionando:  
-> *(adicione aqui o link do vídeo ou gif mostrando o app)*
+> **
 
 ---
 
