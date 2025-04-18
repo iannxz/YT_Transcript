@@ -32,7 +32,7 @@ Uma aplicação em Python que transforma vídeos do YouTube em **texto transcrit
 ## ▶️ Demonstração
 
 > 🎥 Vídeo demonstrando o app funcionando:  
-> **
+> *https://github.com/user-attachments/assets/ed0f344b-8924-4b8a-83a1-713d8b902db8*
 
 ---
 
@@ -64,6 +64,10 @@ Transformar vídeos em texto para análise ou revisão
 ## 📁 Estrutura do Projeto
 bash
 Copiar
+
+https://github.com/user-attachments/assets/0efe3b75-9091-4118-a50a-6b48809bc15f
+
+
 Editar
 YT_translate/
 │
