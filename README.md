@@ -89,5 +89,5 @@ Este projeto está sob a licença MIT.
 ---
 
 ## 🙋‍♂️ Autor
-Desenvolvido por Seu Nome
-📬 LinkedIn • ✨ Portfólio
+Desenvolvido por Iann Arthur 
+
