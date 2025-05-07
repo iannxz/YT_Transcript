@@ -40,8 +40,8 @@ Uma aplicação em Python que transforma vídeos do YouTube em **texto transcrit
 
 1. Clone o repositório:
 bash
-git clone https://github.com/iannxz/yt_transcript.git
-cd yt_transcript
+git clone https://github.com/iannxz/youtube-transcript.git
+cd youtube-transcript
 
 ---
 
